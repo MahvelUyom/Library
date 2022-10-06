@@ -1,0 +1,68 @@
+*{
+  font-family: sans-serif;
+}
+body{
+  background:lightblue;
+}
+.container{
+  padding:15px;
+  width:320px;
+}
+div{
+  padding:20px;
+}
+.join{
+  background:white;
+}
+.join h3{
+  color:#40B5AD;
+}
+.join h4{
+  color:lightgreen;
+  font-weight: 800;
+}
+.join p{
+  color:darkgrey;
+  font-weight: 800px;
+  line-height: 30px;
+}
+.sign{
+  background:#40B5AD;
+}
+.sign h3{
+color: white;
+}
+.sign .dollar{
+  font-size: 25px;
+  font-weight:700;
+  color: whitesmoke;
+}
+.sign p{
+  color: white;
+  font-weight:300
+}
+.sign button{
+  width: 90%;
+  height:50px;
+  border-radius:8px;
+  background:#DFFF00;
+  color:#fff;
+  font-weight: bolder;
+  border:none;
+  font-size: 20px;
+  letter-spacing: 1px;
+  
+}
+.foot{
+  background:#40E0D0;
+}
+.foot h3{
+  color: white;
+}
+.foot li {
+  color: white;
+  letter-spacing: 1px;
+  list-style: none;
+  font-weight: 400;
+  margin-top: 8px;
+}
